@@ -1,1 +1,1 @@
-
+1. In a non-agile project, the project manager is equivalent to the product owner. The Product Owner sets the direction for the team, handles release and stakeholder management in agile methodology.

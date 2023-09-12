@@ -1,1 +1,2 @@
 1. In a non-agile project, the project manager is equivalent to the product owner. The Product Owner sets the direction for the team, handles release and stakeholder management in agile methodology.
+2. The product owner sets the direction for the team, handles release and stakeholder management; whereas the scrum master handles all the scrum related tasks such as: JIRA tooling, facilitating sprints and meetings, and standups.
